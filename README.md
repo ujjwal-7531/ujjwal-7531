@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Cyber Security.
 - 🌱 I’m currently learning Data Structures and Algorithms with C++.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: narayanujjwal3107@gmai.com
+- 📫 How to reach me: ujjwalthakur0412@gmail.com
 - 😄 Pronouns: Cyber_Hound
 - ⚡ Fun fact: It's just 0 and 1 that's creating all the mess :)
 
