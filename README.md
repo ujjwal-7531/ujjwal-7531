@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Narayan Thakur</h1>
+<h1 align="center">𝙃𝙞 👋, 𝙄'𝙢 𝙐𝙟𝙟𝙬𝙖𝙡 𝙉𝙖𝙧𝙖𝙮𝙖𝙣 𝙏𝙝𝙖𝙠𝙪𝙧</h1>
 <h3 align="center">A passionate developer from india with kneen intrest in AI/ML and Data Science.</h3>
 
 - 🌱 I’m currently learning **Tensorlfow, Keras, OpenCV**
