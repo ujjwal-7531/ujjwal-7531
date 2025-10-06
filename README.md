@@ -110,12 +110,20 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
+  
 </p>
 
+<!-- GitHub Stats Section -->
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwal-7531&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="37%" />
+  <!-- Total Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal-7531&show_icons=true&locale=en" alt="GitHub Stats" width="41%" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwal-7531&show_icons=true&locale=en&layout=compact" alt="ujjwal-7531" /></p>
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal-7531&" alt="Streak Stats" width="40%" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal-7531&show_icons=true&locale=en" alt="ujjwal-7531" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal-7531&" alt="ujjwal-7531" /></p>
 
