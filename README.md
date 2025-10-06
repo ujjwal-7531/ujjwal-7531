@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🌌, I'm Ujjwal Narayan Thakur</h1>
-<h3 align="center">An undergraduate from India with kneen intrest in AI and development.</h3>
+<h3 align="center">An undergraduate from India with kneen intrest in AI/ML and Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal-7531&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal-7531" /> </p>
 
